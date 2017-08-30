@@ -5,5 +5,5 @@ nbviewer instead of built-it GitHub viewer.
 
 ## Notebooks on nbviewer
 
-1. [TopicByChoice](https://nbviewer.jupyter.org/github/konarkcher/PhysicsApplications/blob/dev/TopicByChoice/TopicByChoice.ipynb) - 
+1. [TopicByChoice](https://nbviewer.jupyter.org/github/konarkcher/PhysicsApplications/blob/master/TopicByChoice/TopicByChoice.ipynb) - 
 thermal conductivity visualisation.
